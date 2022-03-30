@@ -11,12 +11,15 @@
 
 <p><img align="right" src="https://github.com/oguzhaanferli/oguzhaanferli/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 👀 I’m interested in Microsoft's frameworks (Asp.NET, Asp.NET Core, Asp.NET Core Api Asp.Net MVC)
-Microservice Architecture
-EventBus (RabbitMQ, Azure Service Bus)
-NodeJS, ReactJS, VueJS, React Native
+- 🔭 I’m currently working on **dotnet_core_temizlik.co**
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning **flutter**
+
+- 👨‍💻 All of my projects are available at [https://oguzhanferli.com/](https://oguzhanferli.com/)
+
+- 📝 I regularly write articles on [https://oguzhanferli.com/](https://oguzhanferli.com/)
+
+- 💬 Ask me about **react, vue, .net, .net Core, React Native**
 
 - 📫 How to reach me **oguzhaanferli@gmail.com**
 
