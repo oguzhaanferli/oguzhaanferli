@@ -25,18 +25,11 @@ NodeJS, ReactJS, VueJS, React Native
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/oguzhan-ali-ferli/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/oguzhanferli/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/oguzhanferli" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="oguzhanferli" height="30" width="40" /></a>
- <a href="https://twitter.com/oguzhaanferli" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="oguzhanferli" height="30" width="40" /></a>
+ <a href="https://twitter.com/oguzhaanferli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhaanferli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oguzhan-ali-ferli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhan-ali-ferli" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17913853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17913853" height="30" width="40" /></a>
+<a href="https://instagram.com/oguzhanferli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhanferli" height="30" width="40" /></a>
+<a href="https://medium.com/@oguzhaanferli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@oguzhaanferli" height="30" width="40" /></a>
 </p>
 
 <br>
